@@ -3,6 +3,8 @@
 body{
 	/* background-image: url("/img/wallpaper.png"); */
 	/* background-color: white; */
+	background-image: url("/image/hp.png");
+    background-repeat:repeat;
 }
 
 .container{
@@ -28,11 +30,6 @@ p{
 .homeimg{
 	width: 250px;
 	margin: 25px;
-}
-img{
-	margin: 25px 0px;
-	width: 350px;
-	align-content: center;
 }
 
 
