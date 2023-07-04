@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+body{
+	/* background-image: url("/img/wallpaper.png"); */
+	/* background-color: white; */
+}
+
+.container{
+	text-align: center; 
+	
+}
+
+.navbar-brand{
+	font-weight: 900;
+	font-size: 32px;
+	color: black;
+}
+
+h1{
+	margin-top: 50px;
+}
+
+p{
+	text-align: justify;
+	margin: 25px;
+}
+
+.homeimg{
+	width: 250px;
+	margin: 25px;
+}
+img{
+	margin: 25px 0px;
+	width: 350px;
+	align-content: center;
+}
+
+
+.nav-link{
+	font-weight: 700;
+	font-size: 32px;
+	color: black;
+}
